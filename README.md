@@ -1,4 +1,3 @@
 # stepik---auto-tests-course
 home workss
-first commit
-second commit
+Примите во внимание что это первый и тестовый репозиторий. И встречаемые непонятные символы результат моих попыток.
